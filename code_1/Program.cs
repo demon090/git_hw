@@ -6,3 +6,4 @@
 
 Console.WriteLine (Math.Pow(a ,2));
 
+Console.WriteLine (Math.Pow(a ,2));
